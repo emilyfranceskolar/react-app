@@ -1,4 +1,5 @@
 import { Link } from "react-router";
+import "./next.css";
 
 export default function NextPage() {
   return (
@@ -6,7 +7,9 @@ export default function NextPage() {
       <div className="container">
         <h1>Next Page</h1>
         <Link to="/">
-          <button type="button">Click me</button>
+          <button className="btn" type="button">
+            Home
+          </button>
         </Link>
       </div>
     </>
