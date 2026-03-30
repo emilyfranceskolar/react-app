@@ -2,7 +2,7 @@
 
 <!-- En liten beskrivning här om projektet  -->
 
-## För att köra appen
+## För att köra mitt program
 
 <!-- Hur bygger man och kör appen -->
 
