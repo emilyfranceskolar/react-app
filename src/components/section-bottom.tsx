@@ -4,7 +4,7 @@ export default function SectionBottom() {
   return (
     <>
       <section>
-        <h3 className="section-bottom-title">What I enjoy 🤠</h3>
+        <h3 className="bottom-section-title">What I enjoy 🤠</h3>
         <div className="bottom-container">
           <div className="bottom-section-content">
             <ul className="bottom-section-list">

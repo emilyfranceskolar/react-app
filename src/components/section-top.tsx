@@ -24,7 +24,7 @@ export default function SectionTop() {
               </li>
               <li>
                 Finding ways to create solutions through hard work, dedication
-                and most importantly, joy in what I do.
+                and joy in what I do.
               </li>
             </ul>
           </div>
