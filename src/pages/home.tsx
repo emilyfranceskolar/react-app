@@ -1,5 +1,4 @@
 import { Link } from "react-router";
-import "./home.css";
 
 export default function HomePage() {
   return (
@@ -7,9 +6,7 @@ export default function HomePage() {
       <div className="container">
         <h1 className="title">Home Page</h1>
         <Link to="/next">
-          <button className="btn" type="button">
-            Next Page
-          </button>
+          <button type="button">Click me</button>
         </Link>
       </div>
     </>

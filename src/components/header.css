@@ -1,6 +1,5 @@
 header {
     display: flex;
     padding: 16px;
-    color: #FAFAFA;
-    background-color: var(--color-primary);
+    background-color: cornflowerblue;
 }

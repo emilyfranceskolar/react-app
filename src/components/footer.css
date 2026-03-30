@@ -2,6 +2,7 @@ footer {
     display: flex;
     justify-content: center;
     padding: 16px;
-    color: var(--text-color-light);
-    background-color: var(--color-primary-hover);
+    background-color: darkblue;
+    color: #fff;
+    ;
 }
