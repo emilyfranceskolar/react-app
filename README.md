@@ -1,4 +1,4 @@
-# React Weather App
+# Min portfolio
 
 <!-- En liten beskrivning här om projektet  -->
 
