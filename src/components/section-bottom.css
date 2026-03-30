@@ -11,7 +11,9 @@
 }
 
 .bottom-section-list {
-    margin-left: 1rem;
+    /* list-style-type: circle; */
+    list-style: square;
+    margin-left: 1.2rem;
     display: grid;
     gap: 2rem;
     font-size: var(--font-size);

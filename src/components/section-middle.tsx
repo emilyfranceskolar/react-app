@@ -4,7 +4,7 @@ export default function SectionMiddle() {
   return (
     <>
       <section>
-        <h1 className="section-middle-title">Skill set : </h1>
+        <h1 className="section-middle-title">Skill set in : </h1>
         <div className="list-of-skills">
           <div className="skills-row">
             <span className="skill">HTML</span>

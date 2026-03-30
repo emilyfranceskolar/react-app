@@ -1,6 +1,7 @@
 .section-middle-title {
     font-size: 38px;
     font-weight: 600;
+    padding-bottom: 1rem;
     color: var(--color-yellow);
 }
 

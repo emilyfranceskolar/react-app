@@ -5,7 +5,7 @@ export default function SectionTop() {
   return (
     <>
       <section>
-        <h1 className="top-section-title">I am, who am I?</h1>
+        <h1 className="top-section-title">I am who, who am I?</h1>
         <div className="top-container">
           <img src={volvoPic} alt="Pic of me" className="volvo" />
           <div className="top-section-content">
