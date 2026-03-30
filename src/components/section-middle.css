@@ -1,0 +1,22 @@
+.section-middle-title {
+    font-size: 38px;
+    font-weight: 600;
+    color: var(--color-yellow);
+}
+
+.list-of-skills {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.skills-row {
+    display: flex;
+    gap: 3rem;
+}
+
+.skill {
+    padding: 12px 24px;
+    border: 1px solid var(--text-color);
+    background-color: #673AB7;
+}

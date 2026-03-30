@@ -1,0 +1,38 @@
+.top-section-title {
+    font-size: 36px;
+    font-weight: 600px;
+    color: var(--color-red);
+    padding-bottom: 1rem;
+}
+
+.volvo {
+    width: 600px;
+    height: 400px;
+}
+
+.top-container {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.top-section-content {
+    padding: 0.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.bring-to-table {
+    font-size: 28px;
+    font-weight: 500;
+    color: var(--color-pink);
+}
+
+.top-section-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-left: 1rem;
+    font-size: var(--font-size);
+}

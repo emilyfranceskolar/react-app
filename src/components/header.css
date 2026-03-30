@@ -3,6 +3,8 @@ header {
     gap: 3rem;
     padding: 2rem;
     background-color: var(--bg-color);
+    position: sticky;
+    top: 0;
 }
 
 .brand-container {

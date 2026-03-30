@@ -1,25 +1,26 @@
+import SectionBottom from "../components/section-bottom";
+import SectionMiddle from "../components/section-middle";
+import SectionTop from "../components/section-top";
 import "./about.css";
 import Container from "./container";
 export default function AboutPage() {
   return (
     <>
-      <main>
-        <section className="about">
-          <Container>
-            <h1>I am, who am I?</h1>
-          </Container>
-        </section>
-        <section className="skills">
-          <Container>
-            <h1>My skill set </h1>
-          </Container>
-        </section>
-        <section className="hobbies">
-          <Container>
-            <h1>What I enjoy </h1>
-          </Container>
-        </section>
-      </main>
+      <section className="about">
+        <Container>
+          <SectionTop />
+        </Container>
+      </section>
+      <section className="skills">
+        <Container>
+          <SectionMiddle />
+        </Container>
+      </section>
+      <section className="hobbies">
+        <Container>
+          <SectionBottom />
+        </Container>
+      </section>
     </>
   );
 }

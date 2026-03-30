@@ -1,0 +1,23 @@
+.section-bottom-title {
+    font-size: 32px;
+    font-weight: 400;
+    color: var(--color-pink);
+}
+
+.bottom-container {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+.bottom-section-list {
+    margin-left: 1rem;
+    display: grid;
+    gap: 2rem;
+    font-size: var(--font-size);
+}
+
+.dogPic {
+    width: 600px;
+    height: 450px;
+}

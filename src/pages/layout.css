@@ -1,0 +1,10 @@
+.page-shell {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* allt mellan header och footer  */
+.page-content {
+    flex: 1;
+}

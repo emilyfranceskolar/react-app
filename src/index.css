@@ -7,10 +7,36 @@
     --color-red: #eb2a31;
     --color-pink: #F8BBD0;
     --color-yellow: #FBC02D;
+    --font-size: 18px;
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+main {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    background-color: var(--bg-color);
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 2rem;
+    padding: 1.8rem;
+    /* border: 1px solid #fff; */
+}
+
+
+img {
+    border-radius: 18px;
+    border: 2px solid #E0E0E0;
+    width: 400px;
+    height: 250px;
 }
