@@ -1,5 +1,53 @@
 header {
     display: flex;
-    padding: 16px;
-    background-color: cornflowerblue;
+    gap: 3rem;
+    padding: 2rem;
+    background-color: var(--bg-color);
+}
+
+.brand-container {
+    flex-grow: 1;
+}
+
+.brand {
+    padding: 0.6rem;
+    color: var(--text-color);
+    text-decoration: none;
+    font-size: 3rem;
+}
+
+.brand:hover {
+    padding: 0.6rem;
+    color: var(--color-yellow);
+    text-decoration: none;
+    font-size: 3rem;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.link {
+    font-size: 18px;
+    border-radius: 30px;
+    padding: 12px 24px;
+    border: 1px solid var(--text-color);
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.link:hover {
+    border-radius: 30px;
+    padding: 12px 24px;
+    border: 1px solid var(--text-color);
+    color: var(--color-yellow);
+}
+
+.link.active {
+    border-radius: 30px;
+    padding: 12px 24px;
+    background-color: var(--color-header-hover);
+    color: var(--text-color);
 }

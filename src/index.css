@@ -1,19 +1,16 @@
 :root {
     font-family: "Montserrat", sans-serif;
-    ;
+    --bg-color: #000;
+    --color-header-hover: #303F9F;
+    --text-color: #fff;
+    --text-color-dark: #333;
+    --color-red: #eb2a31;
+    --color-pink: #F8BBD0;
+    --color-yellow: #FBC02D;
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-
-.container {
-    border: 1px solid #000;
-    margin: 0 auto;
-    height: 100vh;
-    max-width: 1200px;
-    padding: 16px;
 }
