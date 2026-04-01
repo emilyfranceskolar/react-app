@@ -5,7 +5,7 @@ export default function HomePage() {
   return (
     <>
       <h3 className="home-main-title"> Hello, welcome :)</h3>
-      <div className="hero">
+      <div className="home-hero">
         <Container>
           <div className="text">
             <div className="top-text">
