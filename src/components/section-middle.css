@@ -21,3 +21,7 @@
     border: 1px solid var(--text-color);
     background-color: #673AB7;
 }
+
+.ux {
+    color: var(--color-yellow);
+}

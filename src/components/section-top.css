@@ -3,12 +3,6 @@
     font-weight: 600px;
     color: var(--color-red);
     margin-left: 2rem;
-    padding-bottom: 1rem;
-}
-
-.volvo {
-    width: 600px;
-    height: 400px;
 }
 
 .top-container {
@@ -21,10 +15,10 @@
     padding: 0.4rem;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1rem;
 }
 
-.bring-to-table {
+.top-section-header {
     font-size: 28px;
     font-weight: 500;
     color: var(--color-pink);

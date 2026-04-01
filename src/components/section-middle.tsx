@@ -25,6 +25,10 @@ export default function SectionMiddle() {
             <span className="skill">Sharepoint</span>
             <span className="skill">Technical Copy</span>
           </div>
+          <p>
+            On top of coding, I am also a{" "}
+            <span className="ux"> YH-trained UX Designer</span>.
+          </p>
         </div>
       </section>
     </>

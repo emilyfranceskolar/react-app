@@ -4,9 +4,9 @@ export default function SectionBottom() {
   return (
     <>
       <section>
-        <h3 className="bottom-section-title">What I enjoy 🤠</h3>
         <div className="bottom-container">
           <div className="bottom-section-content">
+            <h3 className="bottom-section-title">What I enjoy 🤠</h3>
             <ul className="bottom-section-list">
               <li>Ideating and making trouble in a kitchen.</li>
               <li>Going to saunas (preferably by the sea).</li>
@@ -18,7 +18,7 @@ export default function SectionBottom() {
               <li>Hanging out with friends and their animals.</li>
             </ul>
           </div>
-          <img src={dogPic} alt="Pic of me" className="dogPic" />
+          <img src={dogPic} alt="Pic of me" />
         </div>
       </section>
     </>

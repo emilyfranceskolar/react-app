@@ -9,7 +9,7 @@ export default function HomePage() {
         <Container>
           <div className="text">
             <div className="top-text">
-              <h1 className="currently">
+              <h1 className="home-title">
                 I'm Emily, and I'm currently studying frontend development.
               </h1>
             </div>
