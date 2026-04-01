@@ -1,0 +1,14 @@
+.work-container {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    gap: 2rem;
+}
+
+.work-title {
+    padding-top: 3rem;
+}
+
+.api-name {
+    color: var(--color-yellow);
+}
