@@ -20,7 +20,7 @@ header {
 
 .brand:hover {
     padding: 0.6rem;
-    color: var(--color-yellow);
+    color: var(--color-red);
     text-decoration: none;
     font-size: 3rem;
 }
