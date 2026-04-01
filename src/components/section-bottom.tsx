@@ -18,7 +18,7 @@ export default function SectionBottom() {
               <li>Hanging out with friends and their animals.</li>
             </ul>
           </div>
-          <img src={dogPic} alt="Pic of me" />
+          <img src={dogPic} alt="Pic of Emily with a dog" />
         </div>
       </section>
     </>

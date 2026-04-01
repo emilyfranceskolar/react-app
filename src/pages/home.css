@@ -1,6 +1,4 @@
-.greeting {
-    display: flex;
-    justify-self: start;
+.home-main-title {
     padding-top: 3rem;
     color: #F8BBD0;
 }
@@ -8,13 +6,12 @@
 .hero {
     flex: 1;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    place-items: center;
     padding: 2rem 5rem;
 }
 
 .text {
-    max-width: 600px;
+    max-width: 550px;
     display: flex;
     flex-direction: column;
     align-items: start;

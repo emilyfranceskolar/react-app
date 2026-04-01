@@ -10,5 +10,5 @@ h3 {
 }
 
 .my-name {
-    color: #FBC02D;
+    color: var(--color-yellow);
 }
