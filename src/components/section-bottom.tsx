@@ -15,7 +15,6 @@ export default function SectionBottom() {
                 Traveling and learning from the people I meet on my travels.
               </li>
               <li>Listening to music & web radio from around the world.</li>
-              <li>Hanging out with friends and their animals.</li>
             </ul>
           </div>
           <img src={dogPic} alt="Pic of Emily with a dog" />
