@@ -12,3 +12,29 @@
 .api-name {
     color: var(--color-yellow);
 }
+
+.search-container {
+    margin-top: 2rem;
+    border-radius: 30px;
+    color: var(--bg-color);
+    background-color: var(--text-color);
+    max-width: 800px;
+    padding: 6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
+.temp {
+    font-size: 64px;
+}
+
+.search-bottom {
+    display: flex;
+    gap: 2rem;
+    text-align: center;
+    padding: 2rem;
+    /* border-radius: 18px;
+    background-color: var(--color-pink) */
+}
