@@ -1,9 +1,10 @@
 :root {
     font-family: "Montserrat", sans-serif;
     --bg-color: #000;
-    --color-header-hover: #303F9F;
     --text-color: #fff;
-    --text-color-dark: #333;
+    --text-color-dark: #212121;
+    --color-dark-purple: #303F9F;
+    --color-light-purple: #9FA8DA;
     --color-red: #eb2a31;
     --color-pink: #F8BBD0;
     --color-yellow: #FBC02D;

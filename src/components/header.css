@@ -50,6 +50,6 @@ nav {
 .link.active {
     border-radius: 30px;
     padding: 12px 24px;
-    background-color: var(--color-header-hover);
+    background-color: var(--color-dark-purple);
     color: var(--text-color);
 }

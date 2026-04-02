@@ -16,9 +16,9 @@
 .search-container {
     margin-top: 2rem;
     border-radius: 30px;
-    color: var(--bg-color);
+    color: var(--text-color-dark);
     border: 2px solid var(--text-color);
-    background-color: var(--color-pink);
+    background-color: var(--color-light-purple);
     max-width: 800px;
     padding: 3rem;
     display: flex;
