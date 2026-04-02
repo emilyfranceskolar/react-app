@@ -1,11 +1,12 @@
 # Min portfolio
 
-<!-- En liten beskrivning här om projektet  -->
+Detta är en en första iteration av min portfolio som frontend utvecklare.
+Jag har använt mig av React, TypeScript + Vite och Vercel.
 
 ## För att köra mitt program
 
-<!-- Hur bygger man och kör appen -->
+För att köra programmet använd npm run dev
 
 ## Link to Vercel
 
-<!-- Länka sedan när du är klar -->
+Min portfolio kan granskas här [Live Demo](react-app-blue-eta.vercel.app), hoppas att du gillar det och tack för att du kollar :)
