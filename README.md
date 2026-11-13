@@ -9,6 +9,6 @@ För att köra programmet använd npm run dev
 
 ## Link to Vercel
 
-Min portfolio kan granskas här [Live Demo]((https://react-app-blue-eta.vercel.app/)
+Min portfolio kan granskas här [Live Demo](https://react-app-blue-eta.vercel.app/)
 
 Hoppas att du gillar det och tack för att du kollar :)
